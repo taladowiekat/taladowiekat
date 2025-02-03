@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Developing a machine learning model **TensorFlow, PyTorch, and Scikit-learn**
 
-- 👨‍💻 All of my projects are available at [https://github.com/taladowiekat](https://github.com/taladowiekat)
-
 - 📫 How to reach me **Email: tala.nazeeh.dowiekat@gmail.com LinkedIn: www.linkedin.com/in/tala-dweikat-a80712276**
 
 - ⚡ Fun fact **Learning never stops—my passion for tech grows every day.**
